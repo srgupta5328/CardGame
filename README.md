@@ -1,6 +1,4 @@
 # CardGame
-This is a card game
 
-Basic Card Game Go Program. Trying to familiarize myself with the language
+This Project is a hands on introduction to Go. Using the Udemy course for training.
 
-e
